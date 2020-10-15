@@ -15,6 +15,7 @@ A) MODELOS DE CLASSIFICAÇÃO:
   1) MultinomialNB – Naive Baye
   2) LogisticRegression – Regressão Logística
   3) OneVsRestClassifier – OVR
+
 B) CLUSTERIZAÇÃO COM K-MEANS
 
 RESULTADOS: GRÁFICOS E TABELAS, MAPAS INTERATIVOS, DASHBOARD E DATASET COM PREDIÇÃO
